@@ -1,0 +1,56 @@
+24-Nov-2022 03:28:16.885 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.69
+24-Nov-2022 03:28:16.894 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 9 2022 18:43:47 UTC
+24-Nov-2022 03:28:16.894 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.69.0
+24-Nov-2022 03:28:16.894 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+24-Nov-2022 03:28:16.894 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.10.147-133.644.amzn2.x86_64
+24-Nov-2022 03:28:16.894 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+24-Nov-2022 03:28:16.894 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-17-amazon-corretto.x86_64
+24-Nov-2022 03:28:16.894 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.5+8-LTS
+24-Nov-2022 03:28:16.895 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+24-Nov-2022 03:28:16.895 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/ec2-user/apache-tomcat-9.0.69
+24-Nov-2022 03:28:16.895 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/ec2-user/apache-tomcat-9.0.69
+24-Nov-2022 03:28:16.919 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+24-Nov-2022 03:28:16.919 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+24-Nov-2022 03:28:16.920 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+24-Nov-2022 03:28:16.920 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+24-Nov-2022 03:28:16.923 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+24-Nov-2022 03:28:16.923 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/ec2-user/apache-tomcat-9.0.69/conf/logging.properties
+24-Nov-2022 03:28:16.923 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+24-Nov-2022 03:28:16.923 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+24-Nov-2022 03:28:16.923 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+24-Nov-2022 03:28:16.924 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+24-Nov-2022 03:28:16.928 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+24-Nov-2022 03:28:16.928 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/ec2-user/apache-tomcat-9.0.69
+24-Nov-2022 03:28:16.932 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/ec2-user/apache-tomcat-9.0.69
+24-Nov-2022 03:28:16.932 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/ec2-user/apache-tomcat-9.0.69/temp
+24-Nov-2022 03:28:16.934 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib]
+24-Nov-2022 03:28:17.727 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8090"]
+24-Nov-2022 03:28:17.791 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1415] milliseconds
+24-Nov-2022 03:28:17.889 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-Nov-2022 03:28:17.892 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.69]
+24-Nov-2022 03:28:17.908 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/apache-tomcat-9.0.69/webapps/ROOT]
+24-Nov-2022 03:28:18.541 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/apache-tomcat-9.0.69/webapps/ROOT] has finished in [628] ms
+24-Nov-2022 03:28:18.541 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/apache-tomcat-9.0.69/webapps/docs]
+24-Nov-2022 03:28:18.583 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/apache-tomcat-9.0.69/webapps/docs] has finished in [42] ms
+24-Nov-2022 03:28:18.584 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/apache-tomcat-9.0.69/webapps/examples]
+24-Nov-2022 03:28:19.137 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/apache-tomcat-9.0.69/webapps/examples] has finished in [553] ms
+24-Nov-2022 03:28:19.139 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/apache-tomcat-9.0.69/webapps/host-manager]
+24-Nov-2022 03:28:19.197 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/apache-tomcat-9.0.69/webapps/host-manager] has finished in [57] ms
+24-Nov-2022 03:28:19.200 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/apache-tomcat-9.0.69/webapps/manager]
+24-Nov-2022 03:28:19.262 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/apache-tomcat-9.0.69/webapps/manager] has finished in [62] ms
+24-Nov-2022 03:28:19.270 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8090"]
+24-Nov-2022 03:28:19.310 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1519] milliseconds
+24-Nov-2022 03:33:39.321 INFO [Catalina-utility-1] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/home/ec2-user/apache-tomcat-9.0.69/conf/tomcat-users.xml]
+24-Nov-2022 18:24:01.008 INFO [http-nio-8090-exec-4] org.apache.coyote.http11.Http11Processor.service Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+	java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x010x020x000x010x000x010xfc0x030x030xde0xbd0xd9+0xa70xfe0xe1YD0xe30xddlK0xd50x87Ey0xfa0x9a0xbc[,0x9f0xf4!0xa3x0x110x950x80r0x16 ]. HTTP method names must be tokens
+		at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:419)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:271)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:891)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1784)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:833)
